@@ -13,6 +13,8 @@
 - `transformers` 
 - `torch_geometric` 
 - `torch`
+- `streamlit`
+- `streamlit-agraph`
 
 ## Related Papers
 - Akbik, A., Bergmann, T., Blythe, D., Rasul, K., Schweter, S. and Vollgraf, R., 2019, June. FLAIR: An easy-to-use framework for state-of-the-art NLP. In Proceedings of the 2019 conference of the North American chapter of the association for computational linguistics (demonstrations) (pp. 54-59).
