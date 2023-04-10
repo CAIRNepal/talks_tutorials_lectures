@@ -5,7 +5,7 @@
 
 <img src="https://user-images.githubusercontent.com/52251022/230404834-1c77fc86-cf5c-4bda-9f2e-d0f29fc10051.jpg" alt="event" width="400px"/>
 
-## Softwares
+## Software/Libraries 
 - `fastcoref`
 - `spacy` and download spacy model, e.g., `en_core_web_sm`
 - `flair` 
