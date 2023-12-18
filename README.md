@@ -7,6 +7,12 @@ This repository contains the presentations, tutorials, seminars, and lectures gi
     -  Program/Event: Faculty Development Program
     -  Location: Online
     -  Date: 8 April 2023
+ - ### [Pacific Rim International Workshop on Applied Knowledge, Jakarta, Indonesia](https://priwakg.org/priwakg-2023-program-1)
+    -  Program/Event:Concerence
+    -  Location: Online
+    -  Date: 16 November 2023
+    -  [Slide](http://dx.doi.org/10.13140/RG.2.2.27225.70245)
+  
 
 ## License
 ### [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
