@@ -1,0 +1,110 @@
+# General
+*.log
+*.lock
+*.pid
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.stackdump
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS generated files by Finder
+Icon?
+._*
+
+# Linux
+*~
+.*.swp
+.*.swo
+.cache/
+.config/
+.local/
+.CFUserTextEncoding
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+.env
+.env.*
+.venv/
+*.coverage
+.coverage.*
+.tox/
+.cache/
+.pytest_cache/
+htmlcov/
+.mypy_cache/
+.dmypy.json
+.pyre/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb~
+*.ipynb.bak
+output/
+.jupyter/
+.jupyter_cache/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Virtual environment
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook extensions
+.custom.js
+.jupyter/
+
+# Miscellaneous
+*.sql
+*.sqlite3
+*.db
+*.db-journal
+*.sqlite3-journal
+*.dump
+
+# Operating System generated files
+.Spotlight-V100
+.Trashes
+*.swp
+
