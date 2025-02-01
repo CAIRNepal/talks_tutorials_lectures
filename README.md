@@ -3,6 +3,11 @@
 ## Overview
 This repository contains the presentations, tutorials, seminars, and lectures given by CAIR-Nepal members at conferences and other events. The materials are organised using directory structures, with each directory corresponding to a particular event.
 
+
+- ### [Research Writing Workshop Pulchowk Nepal](https://github.com/CAIRNepal/talks_tutorials_lectures/tree/main/ieee_pulchowk_cair_nepal_workshop)
+    -  Location: Online
+    -  Date: 1-2 February 2025
+    
 - ### [fdd_india_2023_08_april](https://github.com/CAIRNepal/talks_tutorials_lectures/tree/main/fdd_india_2023_08_april)
     -  Program/Event: Faculty Development Program
     -  Location: Online
