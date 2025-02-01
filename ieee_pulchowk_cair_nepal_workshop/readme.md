@@ -1,7 +1,5 @@
 # Research Writing Workshop
 
-![](workshop.jpg)
-
 # Presentation and Research Material
 
 ## Research Highlights  
@@ -11,3 +9,6 @@
 ## Research Writing
 - [Essentials of Research Writing](slide/essentials_of_research_writing.pdf)
 - [Ethics in Research](slide/ethics_in_research.pdf)
+
+## Event
+![](workshop.jpg)
